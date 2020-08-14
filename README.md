@@ -129,6 +129,16 @@ c. Cost analysis
 What is the cost to run the solution per day?
 What does it cost to roll it out? 
 
+PROJECT ROLE	HOURLY RATE		ESTIMATE CODE	MIN	MAX
+Project Manager	 $-   		D	-30%	50%
+Project Control Office	 $-   		C	-15%	30%
+Project Management Office	 $-   		B	-5%	15%
+Technical Lead	 $-   		A	0%	0%
+Analyst	 $-   				
+Lead Developer	 $-   				
+Developer	 $-   				
+
+
 d. Security considerations
 
 What are the potential threats?
