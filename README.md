@@ -1,4 +1,4 @@
-# Wrting-a-Tech-Spec
+# Wrting-a-Tech-Spec.
 
 a. Overview, Problem Description, Summary, or Abstract
 
